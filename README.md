@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile-banner.png" alt="SQERYK — ML / AI Engineer, Data Science and Production Systems" width="100%"/>
+<img src="profile-header.svg" alt="SQERYK — ML / AI Engineer, Data Science and Production Systems" width="100%"/>
 
 ### `I turn ML ideas into working products.`
 
@@ -18,28 +18,7 @@ Building intelligent systems around **LLMs, embeddings, data and production infr
 
 ## 👨‍💻 About me
 
-```python
-class SQERYK:
-    role = "ML / AI Engineer"
-
-    focus = [
-        "Machine Learning",
-        "LLM & RAG systems",
-        "Semantic Search",
-        "Data Science",
-        "Production ML",
-    ]
-
-    engineering = [
-        "FastAPI",
-        "PostgreSQL / pgvector",
-        "Redis",
-        "Docker",
-        "Async Python",
-    ]
-
-    philosophy = "A model is useful when people can actually use it."
-```
+I'm **SQERYK**, an **ML / AI Engineer** working at the intersection of **data, LLMs and real-world products**.
 
 I enjoy building the **whole ML system**, not just the model:
 
@@ -57,14 +36,14 @@ My main interests are semantic search, LLM-powered products, practical ML system
 
 <br><br>
 
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLMs-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Embeddings-0891B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Whisper-412991?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/aiogram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 
 </div>
 
@@ -72,11 +51,13 @@ My main interests are semantic search, LLM-powered products, practical ML system
 
 ## 🚀 Featured Projects
 
+**Real projects. Real users. Real impact.**
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🧠 Second Brain
+### 01 · Second Brain
 
 **Production AI knowledge system** for saving and retrieving personal information by meaning.
 
@@ -103,9 +84,9 @@ Supports text, voice, video, PDFs and images with semantic search and AI-powered
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🎓 DS Quest
+### 02 · DS Quest
 
 **Interactive Data Science learning platform** with executable coding missions.
 
@@ -131,12 +112,9 @@ A full-stack platform covering the path from Python and Pandas to ML and product
 [**→ Explore project**](https://github.com/vaceslavkucenko8-code/DS-roadmap)
 
 </td>
-</tr>
+<td width="33%" valign="top">
 
-<tr>
-<td width="50%" valign="top">
-
-### 🚗 Conversion Prediction
+### 03 · Conversion Prediction
 
 End-to-end ML service for predicting target actions from web-session data.
 
@@ -161,57 +139,34 @@ End-to-end ML service for predicting target actions from web-session data.
 
 </td>
 
-<td width="50%" valign="top">
 
-### 🔬 What's next?
-
-Currently interested in building systems around:
-
-<br>
-
-**LLM Engineering**  
-RAG · agents · structured outputs
-
-**ML Systems**  
-inference · evaluation · monitoring
-
-**Search**  
-embeddings · vector databases · ranking
-
-**Data Science**  
-experimentation · feature engineering · modeling
-
-<br>
-
-> Building things that survive outside a notebook.
-
-</td>
 </tr>
 </table>
 
 <br>
 
-## 📊 GitHub
+## 🔬 Currently exploring
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaceslavkucenko8-code&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=vaceslavkucenko8-code&theme=github-dark-blue&hide_border=true&background=0D1117"/>
-
-</div>
+| LLM Engineering | ML Systems | Search |
+| :--- | :--- | :--- |
+| RAG · agents · structured outputs | Inference · evaluation · monitoring | Embeddings · vector databases · ranking |
 
 <br>
 
+## 📊 GitHub Activity
+
+[**Explore my repositories →**](https://github.com/vaceslavkucenko8-code?tab=repositories)
+
+My contribution graph and latest activity are shown below this README.
+
+---
+
 <div align="center">
 
-### 💭
+### “A model is useful when people can actually use it.”
 
-> **Good ML isn't just a model with a high metric.  
-> It's a system that reliably solves a real problem.**
+**SQERYK · ML / AI Engineer**
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:161B22,100:2563EB" width="100%"/>
+Build a more intelligent tomorrow.
 
 </div>
